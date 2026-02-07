@@ -9,4 +9,6 @@ dependencies = [
     "jupyter>=1.1.1",
     "litellm>=1.81.4",
     "numpy>=2.4.1",
+    "pandas>=3.0.0",
+    "pystemmer>=3.0.0",
 ]
