@@ -11,4 +11,5 @@ dependencies = [
     "numpy>=2.4.1",
     "pandas>=3.0.0",
     "pystemmer>=3.0.0",
+    "sentence-transformers>=5.2.2",
 ]
