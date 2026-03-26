@@ -1,0 +1,802 @@
+{
+  "dog_001.png": {
+    "breed": "golden_retriever",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_002.png": {
+    "breed": "golden_retriever",
+    "style": "photograph",
+    "setting": "beach",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_003.png": {
+    "breed": "golden_retriever",
+    "style": "photograph",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_004.png": {
+    "breed": "golden_retriever",
+    "style": "photograph",
+    "setting": "forest",
+    "activity": "running",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_005.png": {
+    "breed": "golden_retriever",
+    "style": "photograph",
+    "setting": "other",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_006.png": {
+    "breed": "golden_retriever",
+    "style": "pencil_sketch",
+    "setting": "other",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_007.png": {
+    "breed": "golden_retriever",
+    "style": "watercolor",
+    "setting": "other",
+    "activity": "swimming",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_008.png": {
+    "breed": "golden_retriever",
+    "style": "oil_painting",
+    "setting": "snow",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_009.png": {
+    "breed": "golden_retriever",
+    "style": "cartoon",
+    "setting": "park",
+    "activity": "playing",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_010.png": {
+    "breed": "golden_retriever",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "running",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_011.png": {
+    "breed": "pug",
+    "style": "photograph",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_012.png": {
+    "breed": "pug",
+    "style": "photograph",
+    "setting": "cafe",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_013.png": {
+    "breed": "pug",
+    "style": "photograph",
+    "setting": "street",
+    "activity": "walking",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_014.png": {
+    "breed": "pug",
+    "style": "photograph",
+    "setting": "kitchen",
+    "activity": "eating",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_015.png": {
+    "breed": "pug",
+    "style": "photograph",
+    "setting": "other",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_016.png": {
+    "breed": "pug",
+    "style": "pencil_sketch",
+    "setting": "park",
+    "activity": "running",
+    "has_text": true,
+    "mood": "excited"
+  },
+  "dog_017.png": {
+    "breed": "pug",
+    "style": "watercolor",
+    "setting": "other",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_018.png": {
+    "breed": "pug",
+    "style": "cartoon",
+    "setting": "beach",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_019.png": {
+    "breed": "pug",
+    "style": "oil_painting",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_020.png": {
+    "breed": "pug",
+    "style": "photograph",
+    "setting": "street",
+    "activity": "posing",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_021.png": {
+    "breed": "german_shepherd",
+    "style": "photograph",
+    "setting": "forest",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_022.png": {
+    "breed": "german_shepherd",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_023.png": {
+    "breed": "german_shepherd",
+    "style": "photograph",
+    "setting": "snow",
+    "activity": "posing",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_024.png": {
+    "breed": "german_shepherd",
+    "style": "photograph",
+    "setting": "street",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_025.png": {
+    "breed": "german_shepherd",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "posing",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_026.png": {
+    "breed": "german_shepherd",
+    "style": "pencil_sketch",
+    "setting": "other",
+    "activity": "posing",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_027.png": {
+    "breed": "german_shepherd",
+    "style": "watercolor",
+    "setting": "beach",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_028.png": {
+    "breed": "german_shepherd",
+    "style": "oil_painting",
+    "setting": "forest",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_029.png": {
+    "breed": "german_shepherd",
+    "style": "cartoon",
+    "setting": "park",
+    "activity": "running",
+    "has_text": true,
+    "mood": "excited"
+  },
+  "dog_030.png": {
+    "breed": "german_shepherd",
+    "style": "photograph",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_031.png": {
+    "breed": "siberian_husky",
+    "style": "photograph",
+    "setting": "snow",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_032.png": {
+    "breed": "siberian_husky",
+    "style": "photograph",
+    "setting": "forest",
+    "activity": "playing",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_033.png": {
+    "breed": "siberian_husky",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "happy"
+  },
+  "dog_034.png": {
+    "breed": "siberian_husky",
+    "style": "photograph",
+    "setting": "beach",
+    "activity": "running",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_035.png": {
+    "breed": "siberian_husky",
+    "style": "photograph",
+    "setting": "other",
+    "activity": "posing",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_036.png": {
+    "breed": "siberian_husky",
+    "style": "pencil_sketch",
+    "setting": "snow",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_037.png": {
+    "breed": "husky",
+    "style": "watercolor",
+    "setting": "forest",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_038.png": {
+    "breed": "siberian_husky",
+    "style": "oil_painting",
+    "setting": "snow",
+    "activity": "posing",
+    "has_text": false,
+    "mood": "neutral"
+  },
+  "dog_039.png": {
+    "breed": "husky",
+    "style": "cartoon",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": false,
+    "mood": "neutral"
+  },
+  "dog_040.png": {
+    "breed": "siberian_husky",
+    "style": "photograph",
+    "setting": "snow",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_041.png": {
+    "breed": "corgi",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "walking",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_042.png": {
+    "breed": "corgi",
+    "style": "photograph",
+    "setting": "beach",
+    "activity": "running",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_043.png": {
+    "breed": "corgi",
+    "style": "photograph",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_044.png": {
+    "breed": "corgi",
+    "style": "photograph",
+    "setting": "cafe",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_045.png": {
+    "breed": "corgi",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_046.png": {
+    "breed": "corgi",
+    "style": "pencil_sketch",
+    "setting": "street",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_047.png": {
+    "breed": "corgi",
+    "style": "watercolor",
+    "setting": "other",
+    "activity": "running",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_048.png": {
+    "breed": "corgi",
+    "style": "cartoon",
+    "setting": "beach",
+    "activity": "swimming",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_049.png": {
+    "breed": "corgi",
+    "style": "watercolor",
+    "setting": "forest",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_050.png": {
+    "breed": "corgi",
+    "style": "photograph",
+    "setting": "kitchen",
+    "activity": "eating",
+    "has_text": true,
+    "mood": "happy"
+  },
+  "dog_051.png": {
+    "breed": "dalmatian",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "walking",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_052.png": {
+    "breed": "dalmatian",
+    "style": "photograph",
+    "setting": "street",
+    "activity": "posing",
+    "has_text": false,
+    "mood": "neutral"
+  },
+  "dog_053.png": {
+    "breed": "dalmatian",
+    "style": "photograph",
+    "setting": "studio",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "neutral"
+  },
+  "dog_054.png": {
+    "breed": "dalmatian",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_055.png": {
+    "breed": "dalmatian",
+    "style": "photograph",
+    "setting": "forest",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_056.png": {
+    "breed": "dalmatian",
+    "style": "pencil_sketch",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_057.png": {
+    "breed": "dalmatian",
+    "style": "watercolor",
+    "setting": "beach",
+    "activity": "walking",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_058.png": {
+    "breed": "dalmatian",
+    "style": "oil_painting",
+    "setting": "park",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_059.png": {
+    "breed": "dalmatian",
+    "style": "cartoon",
+    "setting": "street",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_060.png": {
+    "breed": "labrador_retriever",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "neutral"
+  },
+  "dog_061.png": {
+    "breed": "english_bulldog",
+    "style": "photograph",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_062.png": {
+    "breed": "bulldog",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_063.png": {
+    "breed": "bulldog",
+    "style": "photograph",
+    "setting": "cafe",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_064.png": {
+    "breed": "bulldog",
+    "style": "photograph",
+    "setting": "street",
+    "activity": "walking",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_065.png": {
+    "breed": "bulldog",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "playing",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_066.png": {
+    "breed": "bulldog",
+    "style": "pencil_sketch",
+    "setting": "other",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_067.png": {
+    "breed": "bulldog",
+    "style": "watercolor",
+    "setting": "park",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_068.png": {
+    "breed": "bulldog",
+    "style": "oil_painting",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_069.png": {
+    "breed": "bulldog",
+    "style": "cartoon",
+    "setting": "kitchen",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "happy"
+  },
+  "dog_070.png": {
+    "breed": "bulldog",
+    "style": "photograph",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_071.png": {
+    "breed": "shiba_inu",
+    "style": "photograph",
+    "setting": "other",
+    "activity": "posing",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_072.png": {
+    "breed": "shiba_inu",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_073.png": {
+    "breed": "shiba_inu",
+    "style": "photograph",
+    "setting": "street",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_074.png": {
+    "breed": "shiba_inu",
+    "style": "photograph",
+    "setting": "forest",
+    "activity": "running",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_075.png": {
+    "breed": "shiba_inu",
+    "style": "photograph",
+    "setting": "snow",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "neutral"
+  },
+  "dog_076.png": {
+    "breed": "shiba_inu",
+    "style": "pencil_sketch",
+    "setting": "park",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_077.png": {
+    "breed": "shiba_inu",
+    "style": "watercolor",
+    "setting": "forest",
+    "activity": "swimming",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_078.png": {
+    "breed": "shiba_inu",
+    "style": "cartoon",
+    "setting": "cafe",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "happy"
+  },
+  "dog_079.png": {
+    "breed": "shiba_inu",
+    "style": "oil_painting",
+    "setting": "forest",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_080.png": {
+    "breed": "shiba_inu",
+    "style": "photograph",
+    "setting": "other",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_081.png": {
+    "breed": "beagle",
+    "style": "photograph",
+    "setting": "forest",
+    "activity": "running",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_082.png": {
+    "breed": "beagle",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_083.png": {
+    "breed": "beagle",
+    "style": "photograph",
+    "setting": "kitchen",
+    "activity": "eating",
+    "has_text": true,
+    "mood": "happy"
+  },
+  "dog_084.png": {
+    "breed": "beagle",
+    "style": "photograph",
+    "setting": "beach",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_085.png": {
+    "breed": "beagle",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_086.png": {
+    "breed": "beagle",
+    "style": "pencil_sketch",
+    "setting": "forest",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_087.png": {
+    "breed": "beagle",
+    "style": "watercolor",
+    "setting": "park",
+    "activity": "playing",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_088.png": {
+    "breed": "beagle",
+    "style": "cartoon",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_089.png": {
+    "breed": "beagle",
+    "style": "watercolor",
+    "setting": "other",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_090.png": {
+    "breed": "beagle",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "playing",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_091.png": {
+    "breed": "poodle",
+    "style": "photograph",
+    "setting": "other",
+    "activity": "posing",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_092.png": {
+    "breed": "poodle",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "running",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_093.png": {
+    "breed": "labradoodle",
+    "style": "photograph",
+    "setting": "street",
+    "activity": "sitting",
+    "has_text": true,
+    "mood": "calm"
+  },
+  "dog_094.png": {
+    "breed": "poodle",
+    "style": "photograph",
+    "setting": "park",
+    "activity": "running",
+    "has_text": false,
+    "mood": "happy"
+  },
+  "dog_095.png": {
+    "breed": "poodle",
+    "style": "photograph",
+    "setting": "cafe",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_096.png": {
+    "breed": "poodle",
+    "style": "pencil_sketch",
+    "setting": "beach",
+    "activity": "posing",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_097.png": {
+    "breed": "poodle",
+    "style": "watercolor",
+    "setting": "other",
+    "activity": "playing",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_098.png": {
+    "breed": "poodle",
+    "style": "oil_painting",
+    "setting": "other",
+    "activity": "sitting",
+    "has_text": false,
+    "mood": "calm"
+  },
+  "dog_099.png": {
+    "breed": "poodle",
+    "style": "cartoon",
+    "setting": "park",
+    "activity": "walking",
+    "has_text": false,
+    "mood": "excited"
+  },
+  "dog_100.png": {
+    "breed": "golden_retriever",
+    "style": "photograph",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "has_text": true,
+    "mood": "calm"
+  }
+}
